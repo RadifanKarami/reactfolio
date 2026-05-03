@@ -25,12 +25,6 @@ const INFO = {
 			"Bridging the gap between technical proficiency and creative flair, I am an IT Support specialist with a leadership-driven background from my time in student government. Outside the tech space, I am a dedicated performer and content creator, regularly singing at weddings and restaurants. My ability to balance technical troubleshooting with strong interpersonal communication ensures a dynamic approach to every challenge I undertake.",
 	},
 
-	articles: {
-		title: "I'm passionate about pushing the boundaries of what's possible and inspiring the next generation of innovators.",
-		description:
-			"Chronological collection of my long-form thoughts on programming, leadership, product design, and more.",
-	},
-
 	projects: [
 		{
 			title: "Project 1",

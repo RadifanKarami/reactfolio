@@ -14,13 +14,6 @@ const SEO = [
 	},
 
 	{
-		page: "articles",
-		description:
-			"Chronological collection of my long-form thoughts on programming, leadership, product design, and more.",
-		keywords: ["Tharindu", "Tharindu N", "Tharindu Nayanajith"],
-	},
-
-	{
 		page: "projects",
 		description:
 			"Bridging the gap between technical proficiency and creative flair, I am an IT Support specialist with a leadership-driven background from my time in student government. Outside the tech space, I am a dedicated performer and content creator, regularly singing at weddings and restaurants. My ability to balance technical troubleshooting with strong interpersonal communication ensures a dynamic approach to every challenge I undertake.",
