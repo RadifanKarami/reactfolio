@@ -8,6 +8,8 @@
 	display: flex;
 	padding-bottom: 40px;
 	width: 400px;
+	text-decoration: none;
+	cursor: pointer;
 }
 
 .work-image {

@@ -44,16 +44,7 @@ const Projects = () => {
 						</div>
 
 						<div className="subtitle projects-subtitle">
-							I've worked on a variety of projects over the years
-							and I'm proud of the progress I've made. Many of
-							these projects are open-source and available for
-							others to explore and contribute to. If you're
-							interested in any of the projects I've worked on,
-							please feel free to check out the code and suggest
-							any improvements or enhancements you might have in
-							mind. Collaborating with others is a great way to
-							learn and grow, and I'm always open to new ideas and
-							feedback.
+							Bridging the gap between technical proficiency and creative flair, I am an IT Support specialist with a leadership-driven background from my time in student government. Outside the tech space, I am a dedicated performer and content creator, regularly singing at weddings and restaurants. My ability to balance technical troubleshooting with strong interpersonal communication ensures a dynamic approach to every challenge I undertake.
 						</div>
 
 						<div className="projects-list">

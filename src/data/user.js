@@ -1,30 +1,28 @@
 const INFO = {
 	main: {
-		title: "Reactfolio by truethari",
-		name: "Tharindu N.",
-		email: "mail@tharindu.dev",
+		title: "Portfolio by Radifan",
+		name: "Radifan Aji Karami",
+		email: "karamiradifan@gmail.com",
 		logo: "../logo.png",
 	},
 
 	socials: {
 		twitter: "https://twitter.com/",
-		github: "https://github.com/",
-		linkedin: "https://linkedin.com/",
-		instagram: "https://instagram.com/",
-		stackoverflow: "https://stackoverflow.com/",
-		facebook: "https://facebook.com/",
+		github: "https://github.com/RadifanKarami",
+		linkedin: "https://www.linkedin.com/in/radifan-aji-karami-1904242b0/",
+		instagram: "https://www.instagram.com/radifanaji",
 	},
 
 	homepage: {
-		title: "Full-stack web and mobile app developer, and amateur astronaut.",
+		title: "IT Student, Support Expert, and Enthusiastic Builder of Things That (Usually) Work.",
 		description:
-			"I am a backend developer with expertise in Node.js. I have experience in building scalable, secure and reliable web applications using various frameworks and technologies. I enjoy solving complex problems and learning new skills. I am passionate about creating high-quality code that follows best practices and industry standards. I am always looking for new challenges and opportunities to grow as a developer.",
+			"Experienced IT Support professional and former Student Executive leader with a proven track record of balancing technical tasks with high-level communication. As an active vocalist and digital content creator, I bring a creative perspective and strong interpersonal skills to professional environments, ensuring a well-rounded and dynamic contribution.",
 	},
 
 	about: {
-		title: "I’m Tharindu N. I live in Sri Lanka, where I design the future.",
+		title: "I’m Radifan Aji Karami. I live in Jakarta, Indonesia, where I design the future.",
 		description:
-			"I've worked on a variety of projects over the years and I'm proud of the progress I've made. Many of these projects are open-source and available for others to explore and contribute to. If you're interested in any of the projects I've worked on, please feel free to check out the code and suggest any improvements or enhancements you might have in mind. Collaborating with others is a great way to learn and grow, and I'm always open to new ideas and feedback.",
+			"Bridging the gap between technical proficiency and creative flair, I am an IT Support specialist with a leadership-driven background from my time in student government. Outside the tech space, I am a dedicated performer and content creator, regularly singing at weddings and restaurants. My ability to balance technical troubleshooting with strong interpersonal communication ensures a dynamic approach to every challenge I undertake.",
 	},
 
 	articles: {
