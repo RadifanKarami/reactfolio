@@ -76,6 +76,7 @@
 
 .homepage-after-title {
 	display: flex;
+	gap: 40px;
 }
 
 .homepage-projects {
@@ -84,9 +85,8 @@
 }
 
 .homepage-education {
-	flex-basis: 900px;
+	flex-basis: 600px;
 	padding-top: 30px;
-	margin-left: -30px;
 }
 
 .homepage-works {

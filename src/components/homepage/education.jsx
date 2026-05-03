@@ -14,11 +14,16 @@ const Education = () => {
 				body={
 					<div className="works-body">
 						<div className="work">
-							<div className="work-title">Your University</div>
+							<img
+								src="./ista.png"
+								alt="ista"
+								className="work-image"
+							/>
+							<div className="work-title">Al Kamal</div>
 							<div className="work-subtitle">
-								Your Degree
+								Computer Science
 							</div>
-							<div className="work-duration">Year - Year</div>
+							<div className="work-duration">2023 - Present</div>
 						</div>
 					</div>
 				}
